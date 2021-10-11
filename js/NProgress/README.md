@@ -1,1 +1,1 @@
-Source: https://github.com/rstacruz/nprogress
+From: https://github.com/rstacruz/nprogress
